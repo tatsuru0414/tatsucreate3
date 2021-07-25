@@ -375,8 +375,8 @@ header .header-btn .bottom-line {
 }
 
 .product {
-  margin: 100px 0 200px;
-  padding: 0 100px;
+  width: 80%;
+  margin: 100px auto 200px;
 }
 
 .product .product-title {
